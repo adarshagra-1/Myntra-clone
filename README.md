@@ -1,12 +1,61 @@
-# React + Vite
+# 🛍️ Myntra Clone
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This is a simple responsive Myntra Clone built with **React + Vite + Tailwind CSS**.
 
-Currently, two official plugins are available:
+It includes:
+- Home page with product listings  
+- Navbar with Myntra logo, Home, Login, Cart  
+- Add to Cart, Remove from Cart  
+- Cart page with total price  
+- Clear Cart  
+- Footer with useful links  
+- Responsive layout  
+- Hover effects, spacing, fonts similar to Myntra  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Tech Stack
 
-## Expanding the ESLint configuration
+- [React](https://react.dev/)
+- [Vite](https://vitejs.dev/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [React Router DOM](https://reactrouter.com/en/main)
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## Features
+
+- Responsive UI
+- Navbar with Home, Login, Cart with item count  
+- Add to Cart, Remove from Cart  
+- Cart page with total price, clear cart  
+- Myntra logo  
+- Footer with useful links  
+- Modern clean layout  
+
+## Project Structure
+
+Myntra-clone/
+├── public/
+├── src/
+│ ├── App.jsx
+│ ├── App.css
+│ ├── main.jsx
+│ ├── index.css
+│ ├── assets/ (images)
+├── package.json
+├── README.md
+├── vite.config.js
+└── tailwind.config.js
+
+##  Future Improvements
+
+- Add product details page
+- Add user login/register
+- Persist cart in local storage
+- Add API integration
+- Add product filters/categories
+
+## License
+This project is for learning and educational purposes only. Not intended for commercial use.
+
+## About
+Made by Adarsh Agrahari.
+
+
