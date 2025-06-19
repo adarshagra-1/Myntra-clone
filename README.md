@@ -55,7 +55,7 @@ Myntra-clone/
 ## License
 This project is for learning and educational purposes only. Not intended for commercial use.
 
-## About
-Made by Adarsh Agrahari.
+## Author
+Adarsh Agrahari.
 
 
